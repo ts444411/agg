@@ -7,3 +7,4 @@ function signIn() {
     alert("wrong password!");
   }
 }
+signIn();
