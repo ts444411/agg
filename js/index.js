@@ -1,5 +1,4 @@
 function signIn() {
-  const users = ["Mr_Cardy", "Admin"];
-  const passwords = [
-}
+  const pws = [133127726, 71319];
+  
 signIn();
