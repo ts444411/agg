@@ -32,3 +32,10 @@ button {
 .buttons {
   text-align: center;
 }
+
+.hyperlink {
+  color: blue;
+  font-family: Arial;
+  font-weight: bold;
+  text-align: center;
+}
