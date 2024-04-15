@@ -1,3 +1,8 @@
+function ChangeUrl(title, url) {
+        var obj = {Title: title, URL: url};
+        history.pushState(obj, obj.Title, obj.URL);
+}
+ChangeUrl(Home, about:blank);
 function signIn() {
         alert("enter password");
   const pws = [133127726, 71319];
