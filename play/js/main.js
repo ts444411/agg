@@ -3,7 +3,7 @@ function tcrack() {
 }
 
 function lol() {
-    window.location.href = "apps/1v1lol.html";
+    window.location.href = "apps/1v1lol/index.html";
 }
 
 function mine() {
