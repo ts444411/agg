@@ -25,3 +25,6 @@ function tofe() {
 function snake() {
     window.location.href = "apps/snake.html"
 }
+function snake() {
+    window.location.href = "apps/ovo/index.html"
+}
